@@ -3,6 +3,6 @@ I do freelancing as Discord Bot Developer, focused on automation server manageme
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Tyrion7126&layout=compact&hide_title=true&theme=ayu-mirage)](https://github-stats-extended.vercel.app/api/top-langs?username=Tyrion7126&layout=compact&hide_title=true&theme=ayu-mirage)
 
-### [Projects, Stacks 📦](https://yoonion.is-a.dev#projects)
+### [Projects, Frameworks, Languanges 📦](https://yoonion.is-a.dev#projects)
 > Full list in portfolio, mostly custom bots requests by client (private repositories).
 > https://yoonion.is-a.dev
